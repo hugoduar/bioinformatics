@@ -1,7 +1,7 @@
 # Bioinformatics
 List of resources for hacking 23andMe genetic data 
 
-## SNPs Databases
+## SNPs Databases
 
 
 - [OpenSNP](https://opensnp.org)
